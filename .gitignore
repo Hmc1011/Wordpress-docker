@@ -15,3 +15,5 @@ wordpress/wp-content/debug.log
 wordpress/wp-content/cache
 wordpress
 wordpress/*
+export.sql
+export.sql.zip
