@@ -13,3 +13,5 @@ _trash
 *.Rproj
 wordpress/wp-content/debug.log
 wordpress/wp-content/cache
+wordpress
+wordpress/*
