@@ -2,6 +2,8 @@ up:
 	docker compose up -d
 start:
 	docker compose up -d --build
+cli:
+	docker compose exec wordpress /bin/bash
 
 healthcheck:
 	docker compose run --rm healthcheck
